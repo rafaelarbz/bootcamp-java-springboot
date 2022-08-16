@@ -5,7 +5,7 @@ class RodarAplicacao {
 
         carro1.setCor("Azul");
         carro1.setModelo("BMW Série 3");
-        carro1.capacidadeTanque(59);
+        carro1.setCapacidadeTanque(59);
 
         System.out.println(carro1.getModelo());
         System.out.println(carro1.getCor());
